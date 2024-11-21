@@ -12,7 +12,7 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    // The default HSTS value is 30 días. Puedes ajustarlo según tu entorno de producción.
     app.UseHsts();
 }
 
@@ -26,4 +26,6 @@ app.UseAuthorization();
 app.MapRazorPages();  // Soporte para Razor Pages
 app.MapHub<ChatHub>("/chatHub"); // Configurar la ruta para SignalR Hub
 
-app.Run();
+// Leer el puerto de la variable de entorno (necesario para plataformas como Render o Railway)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000"; // Usa 5000 como predeterminado para local
+app.Run($"http://0.0.0.0:{port}");

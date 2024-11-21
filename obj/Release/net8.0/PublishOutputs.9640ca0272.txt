@@ -1,0 +1,7 @@
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\ChatWeb.exe
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\appsettings.Development.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\appsettings.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\ChatWeb.dll
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\ChatWeb.deps.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\ChatWeb.runtimeconfig.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\out\ChatWeb.pdb
