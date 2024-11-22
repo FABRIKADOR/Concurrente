@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gGUaDwobHE+HekclFBfYBbqZibYbJ33bBqeBYud13VQ=",
+  "Hash": "MmFiOjguLTaqSngoByjDOxjT+4quNVl7jfq6Vap9w90=",
   "Source": "ChatWeb",
   "BasePath": "_content/ChatWeb",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ElFabrikador\\Desktop\\Proyecto Concurrente\\ChatWeb\\wwwroot\\style.css",
+      "SourceId": "ChatWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ElFabrikador\\Desktop\\Proyecto Concurrente\\ChatWeb\\wwwroot\\",
+      "BasePath": "_content/ChatWeb",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
     }
   ]
 }

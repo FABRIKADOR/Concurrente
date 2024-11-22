@@ -1,5 +1,10 @@
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\out\web.config
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\appsettings.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\out\appsettings.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\out\ChatWeb.deps.json
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\out\ChatWeb.runtimeconfig.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\ChatWeb.staticwebassets.runtime.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\ChatWeb.exe
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\bin\Debug\net8.0\ChatWeb.deps.json
@@ -13,6 +18,7 @@ C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\Chat
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\ChatWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\ChatWeb.RazorAssemblyInfo.cache
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\ChatWeb.RazorAssemblyInfo.cs
+C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\ChatWeb.sourcelink.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ElFabrikador\Desktop\Proyecto Concurrente\ChatWeb\obj\Debug\net8.0\staticwebassets\msbuild.ChatWeb.Microsoft.AspNetCore.StaticWebAssets.props
